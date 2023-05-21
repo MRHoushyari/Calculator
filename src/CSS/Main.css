@@ -1,0 +1,63 @@
+.app {
+  width: 70%;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.resault {
+  border-radius: 5px;
+  padding: 15px;
+  background-color: #858694;
+  color: white;
+  text-align: end;
+  height: 7rem;
+  font-size: 6.5rem;
+}
+
+.container {
+  /* border: 1px solid red; */
+  margin-top: 30px;
+}
+.container button {
+  font-size: 4.5rem;
+  width: 32%;
+  height: 33%;
+  margin: 3px;
+  border: none;
+  border-radius: 4px;
+  padding: 20px;
+}
+.container .AC{
+  background-color: red;
+}
+.container .backspace{
+  width: 64.5%;
+  background-color: black;
+  color: white;
+}
+.container .digits {
+  display: inline-block;
+  width: 85%;
+  /* border: 1px solid red; */
+}
+
+.container .digits .equal {
+  background-color: blue;
+  color: white;
+}
+
+.container .digits .not {
+  background-color: yellow;
+}
+
+.container .operators {
+  display: inline-block;
+  width: 15%;
+}
+
+.container .operators .operator {
+  background-color: #f5923e;
+  width: 100%;
+}
+
+
