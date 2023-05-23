@@ -1,10 +1,10 @@
 .app {
   width: 70%;
-  margin-top: 50px;
+  margin-top: 10px;
   margin-left: auto;
   margin-right: auto;
 }
-.resault {
+.formulla {
   border-radius: 5px;
   padding: 15px;
   background-color: #858694;
@@ -13,10 +13,20 @@
   height: 7rem;
   font-size: 6.5rem;
 }
+.resault {
+  margin-top: 10px;
+  border-radius: 5px;
+  padding: 15px;
+  background-color: black;
+  color: white;
+  text-align: end;
+  height: 7rem;
+  font-size: 6.5rem;
+}
 
 .container {
   /* border: 1px solid red; */
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .container button {
   font-size: 4.5rem;
